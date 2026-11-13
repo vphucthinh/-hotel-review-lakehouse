@@ -1,0 +1,10 @@
+__pycache__/
+.pytest_cache/
+spark-warehouse/
+metastore_db/
+derby.log
+*.pyc
+.venv/
+# the real dataset is big, do not push it
+data/
+Hotel_Reviews.csv
